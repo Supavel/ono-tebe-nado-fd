@@ -1,1 +1,1 @@
-https://github.com/Supavel/ono-tebe-nado-fd#
+https://github.com/Supavel/ono-tebe-nado-fd
