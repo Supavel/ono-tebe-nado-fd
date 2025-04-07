@@ -140,6 +140,7 @@ body {
 
 .lots__card-list {
   display: flex;
+  flex-wrap: wrap;
   gap: 25px;
   padding: 0 24px;
   list-style: none;
@@ -166,11 +167,6 @@ body {
   justify-content: space-between;
   height: 100%;
   padding: 48px 40px;
-}
-
-.card_type_film,
-.card_type_book,
-.card_type_picture {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
